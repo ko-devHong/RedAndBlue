@@ -1,0 +1,7 @@
+#Thu Apr 18 19:03:29 KST 2019
+base.0=/Users/taehong/Desktop/webview/android/app/build/intermediates/transforms/dexMerger/prodKernel/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/taehong/Desktop/webview/android/app/build/intermediates/transforms/dexMerger/prodKernel/release/0

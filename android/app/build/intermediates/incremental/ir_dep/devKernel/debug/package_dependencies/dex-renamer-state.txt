@@ -1,0 +1,10 @@
+#Mon Apr 15 10:21:36 KST 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/taehong/Desktop/webview/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/21
+base.1=/Users/taehong/Desktop/webview/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/21
+base.0=/Users/taehong/Desktop/webview/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/21
